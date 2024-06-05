@@ -1,1 +1,1 @@
-In the give code each and everything has been designed by looking at the real world.
+Every single element has been designed by observing the real world 🌍. The code utilizes the Object-Oriented Programming (OOP) concepts that we learned in the second semester 📚. These concepts include encapsulation 🔒, inheritance 👨‍👩‍👧, polymorphism 🔄, and abstraction 🧩, which help in creating a modular and maintainable code structure that mirrors real-world entities and their interactions.
